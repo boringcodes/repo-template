@@ -6,11 +6,11 @@
     <a href="https://github.com/boringcodes/repo-template/commits" aria-label="Commitizen Friendly">
       <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square">
     </a>
-    <a href="https://github.com/boringcodes" aria-label="Code Style Prettier">
+    <a href="https://github.com/boringcodes" aria-label="Prettier Code Style">
       <img src="https://img.shields.io/badge/code_style-prettier-brightgreen?style=flat-square">
     </a>
     <a href="https://github.com/boringcodes/repo-template/actions" aria-label="GitHub Workflow Status">
-      <img src="https://img.shields.io/github/workflow/status/boringcodes/repo-template/main-workflow?style=flat-square">
+      <img src="https://img.shields.io/github/workflow/status/boringcodes/repo-template/main?style=flat-square">
     </a>
     <a href="https://david-dm.org/boringcodes/repo-template" aria-label="Dependencies Status">
       <img src="https://img.shields.io/david/boringcodes/repo-template?style=flat-square">
@@ -32,10 +32,10 @@
 
 ## Installation
 
-Use the package manager to install foobar.
+Use the package manager to install foobar
 
 ```bash
-yarn install
+yarn add foobar
 ```
 
 ## Usage
@@ -43,7 +43,7 @@ yarn install
 ```javascript
 import foobar from 'foobar';
 
-foobar.start();
+foobar();
 ```
 
 ## Contributing
