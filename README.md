@@ -1,10 +1,13 @@
 <div align="center">
   <h1>repo-template</h1>
   <p>Boring GitHub Repository Template</p>
-  
+
   <div>
     <a href="https://github.com/boringcodes/repo-template/commits" aria-label="Commitizen Friendly">
       <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square">
+    </a>
+    <a href="https://github.com/boringcodes" aria-label="Code Style Prettier">
+      <img src="https://img.shields.io/badge/code_style-prettier-brightgreen?style=flat-square">
     </a>
     <a href="https://github.com/boringcodes/repo-template/actions" aria-label="GitHub Workflow Status">
       <img src="https://img.shields.io/github/workflow/status/boringcodes/repo-template/main-workflow?style=flat-square">
